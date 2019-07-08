@@ -13,7 +13,6 @@ def valid_move?
 end 
 
 
-def move
-  
-  
+def move(array, index, value="X")
+  array[index] = value
 end
