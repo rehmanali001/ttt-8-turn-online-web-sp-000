@@ -33,5 +33,5 @@ end
 
 def turn(board)
   puts "Please enter 1-9:"
-  return input_to_index
+  puts input_to_index
 end
